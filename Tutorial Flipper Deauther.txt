@@ -1,21 +1,32 @@
-{scan ap}
+- {scan ap}
 ok
 ......
 zurück
-
-{list ... ap}
+- {list ... ap}
 ok
-(zahl vom Opfer AP[SSID] merken, z.b. 1)
+(zahl vom Opfer AP[SSID]
+merken, z.b. 1)
 zurück
- 
-{select ... ap}
+ - {select ... ap}
 ok
-(gemerkte zahl einfügen z.b. select -a 1)
-auf save
+(gemerkte zahl einfügen *)
+z.b. select -a 1
+auf "save"
 zurück
 zurück
-
-{attack ... deauth}
+- {attack ... deauth}
 ok
+************
+*W-LAN OVER*
+************
 
-WLAN TOT
+Rick-Roll :
+Spamt AP´s
+Never gonna give you up
+Never gonna let you down
+
+Probe:
+soll den Router auslasten
+Denial-of-Service
+
+Sniffers:
