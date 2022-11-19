@@ -29,4 +29,8 @@ Probe:
 soll den Router auslasten
 Denial-of-Service
 
+Beacon:
+Spamt zufällige AP's
+
 Sniffers:
+Noch nicht weiter getestet
