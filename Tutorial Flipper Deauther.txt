@@ -1,3 +1,4 @@
+Deauther:
 - {scan ap}
 ok
 ......
@@ -20,7 +21,7 @@ ok
 *W-LAN OVER*
 ************
 
-Rick-Roll :
+Rick-Roll:
 Spamt AP´s
 Never gonna give you up
 Never gonna let you down
